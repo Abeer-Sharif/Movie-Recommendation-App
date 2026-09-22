@@ -1,4 +1,5 @@
 # Movie Recommendation App
+Deployed Link : https://movie-recommendation-app-ob29.onrender.com
 
 A responsive movie discovery application built with **React**, **Vite**, **TMDB API**, and **Appwrite**. Users can search for movies, browse popular titles, and view trending movies based on search activity within the application.
 
